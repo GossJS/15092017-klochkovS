@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!DOCTYPE portfolio PUBLIC "Klochkov" "http://kodaktor.ru/j/dtd_e4fec">
+<portfolio>
+	<box>
+        <title>About</title>
+        <text>Any text</text>
+    </box>
+    <skills>
+        <title>Skills</title>
+        <skill value="7">PHP</skill>
+        <skill value="5.5">JavaScript</skill>
+        <skill value="6">CSS</skill>
+        <skill value="6.5">HTML</skill>
+    </skills>
+    <works>
+        <title>Works</title>
+        <image src="any_source"/>
+		<link source="any_source">anyName</link>
+		<description>Any description</description>
+    </works>
+</portfolio>
